@@ -1,0 +1,10 @@
+h1 {
+  background: #05010a;
+  color: rgba(238, 9, 9, 0.5);
+}
+
+a {
+  background: seagreen;
+  color: white;
+  font-size: 30px;
+}
